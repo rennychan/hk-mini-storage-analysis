@@ -33,7 +33,7 @@ Identifying potential business opportunities for <b>Restore HK 原儲存</b>.
 ### 📊 <span style="color:#1E90FF;">Visualization</span>
 
 *(Generated in Google Colab using Matplotlib)*  
-![Facilities per 100 000 Population](visuals/Facilities per 100k Population.png)
+![Facilities per 100 000 Population](visuals/facilities_per_100k.png)
 
 Districts such as **Eastern**, **Central & Western**, and **Tsuen Wan** show the highest density of mini-storage facilities,  
 while **Sai Kung**, **North**, and **Tai Po** remain under-served.
