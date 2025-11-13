@@ -40,5 +40,8 @@ while **Sai Kung**, **North**, and **Tai Po** remain under-served.
 
 
 🔗 Open in Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rennychan/hk-mini-storage-analysis/blob/main/notebooks/HK_MiniStorage_Analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/rennychan/hk-mini-storage-analysis/blob/main/notebooks/MiniStorage.ipynb
+)
+
 
